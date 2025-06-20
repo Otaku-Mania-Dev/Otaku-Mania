@@ -24,18 +24,18 @@ Otaku Mania is an anime and manga-centered website designed to be a cultural san
 
 ## 🛠 Tech Stack
 - HTML, CSS, JavaScript
-- Firebase (for future Auth & Database)
-- GitHub Pages / Netlify (for deployment)
+- PHP (for future Auth & Database)
+- GitHub Pages (for deployment)
 
 ---
 
-## 🤝 Team Otaku
+<!--## 🤝 Team Otaku
 | Name | Role |
 |------|------|
 | Sneha Sikder | Founder, Developer, Culture Strategist  |
 | Shreya Sikder | Co-Founder, Developer, Creative Lead, Content Curator|
 
----
+-->
 
 ## 🧠 Inspiration
 This project is inspired by a love of storytelling, worldbuilding, and shared cultural appreciation. Whether you're a longtime otaku or just someone who values fandom spaces, you're welcome here.
